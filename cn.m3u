@@ -45,13 +45,13 @@ http://117.148.179.147/PLTV/88888888/224/3221231772/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226235/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方", CCTV女性时尚
 http://111.20.33.70/PLTV/88888893/224/3221226237/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CCTV法语频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", CCTV法语频道
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方", CCTV老故事
 http://111.20.33.70/PLTV/88888893/224/3221226236/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CCTV西班牙语频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", CCTV西班牙语频道
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CCTV阿语频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", CCTV阿语频道
 https://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视", 天津卫视
 http://117.169.120.140:8080/live/hdtianjinstv/.m3u8
@@ -847,7 +847,7 @@ http://110.153.180.106:55555/out_3/index.m3u8
 http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地市新闻", 亳州新闻频道
 http://zbbf2.ahbztv.com/live/416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 海南州藏语频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", 海南州藏语频道
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 伊宁汉语综合
 http://222.81.61.37:9898/out_1/index.m3u8
