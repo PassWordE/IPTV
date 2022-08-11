@@ -1261,7 +1261,7 @@ http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/vi
 http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/毛宁/杨钰莹心雨.png" group-title="其他", 毛宁/杨钰莹-心雨
 http://vodcdn.video.taobao.com/oss/ali-video/0191a1eb6017684a3641a51d32c9633a/video.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/赤峰综合.png" group-title="景区", 赤峰综合频道
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/赤峰综合.png" group-title="其他", 赤峰综合频道
 http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/孟庭苇风里的梦.png" group-title="其他", 孟庭苇-风里的梦
 http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
@@ -1829,7 +1829,7 @@ http://117.148.179.155/TVOD/88888888/224/3221231613/index.m3u8
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/恒宗.png" group-title="其他", 恒宗
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黄山公共生活.png" group-title="景区", 黄山公共生活
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/黄山公共生活.png" group-title="其他", 黄山公共生活
 http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/中央电视台中塔东.png" group-title="景区", 中央电视台中塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
@@ -2237,7 +2237,7 @@ http://jingzhou-live21.cjyun.org/10085/s10085-jingzhou-tv02.m3u8?auth_key=167250
 http://dslive.grtn.cn/yfzh/sd/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/南昌都市.png" group-title="其他", 南昌都市
 http://39.135.138.58:18890/PLTV/88888888/224/3221226226/index.m3u8?zjiangxd
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨眉综合(高清).png" group-title="景区", 峨眉综合(高清)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/峨眉综合(高清).png" group-title="其他", 峨眉综合(高清)
 http://embl.emsyd.jrem.cn:80/tv/ems01.m3u8?auth_key=1624854902-0-0-4c5c643800f475f11a1978be6539ea6c
 #EXTINF:-1,tvg-id="甘肃公共" tvg-name="甘肃公共" tvg-logo="https://epg.112114.xyz/logo/甘肃公共.png" group-title="甘肃", 甘肃公共(高清)
 http://39.134.32.102:6610/270000001111/1110000325/index.m3u8?IASHttpSessionId=OTT
