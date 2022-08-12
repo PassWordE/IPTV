@@ -1205,7 +1205,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江苏徐州新闻综合.png" group-title="江苏", 江苏徐州新闻综合
 http://stream1.huaihai.tv/xwzh/sd/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香港佛陀教育协会(大陆线路).png" group-title="港澳台", 香港佛陀教育协会(大陆线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香港佛陀教育协会(大陆线路).png" group-title="宗教", 香港佛陀教育协会(大陆线路)
 http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖南湘潭综合台.png" group-title="湖南", 湖南湘潭综合台
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
@@ -1355,7 +1355,7 @@ https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖南娄底综合台.png" group-title="湖南", 湖南娄底综合台
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/网络念佛堂(台湾线路).png" group-title="港澳台", 网络念佛堂(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/网络念佛堂(台湾线路).png" group-title="宗教", 网络念佛堂(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/桂林漓江景区.png" group-title="景区", 桂林漓江景区
 https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
@@ -1515,7 +1515,7 @@ https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(大陆线路).png" group-title="宗教", 净空老法师讲经直播台(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/悟道法师讲经(台湾线路).png" group-title="港澳台", 悟道法师讲经(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/悟道法师讲经(台湾线路).png" group-title="宗教", 悟道法师讲经(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/云台山小寨沟.png" group-title="景区", 云台山小寨沟
 https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
@@ -1529,13 +1529,13 @@ https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山天街.png" group-title="景区", 泰山天街
 https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(台湾线路).png" group-title="港澳台", 净空老法师讲经直播台(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(台湾线路).png" group-title="宗教", 净空老法师讲经直播台(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山十八盘.png" group-title="景区", 泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(大陆线路).png" group-title="宗教", 系念法会(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(台湾线路).png" group-title="港澳台", 系念法会(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(台湾线路).png" group-title="宗教", 系念法会(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山玉皇顶.png" group-title="景区", 泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
@@ -1651,7 +1651,7 @@ https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/鸣沙山山门.png" group-title="景区", 鸣沙山山门
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(香港线路).png" group-title="港澳台", 系念法会(香港线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(香港线路).png" group-title="宗教", 系念法会(香港线路)
 https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湘西凤凰古城南华山.png" group-title="景区", 湘西凤凰古城南华山
 https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
