@@ -135,7 +135,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视", 西藏卫视高清
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
-#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="卫视", 香港卫视文旅
+#EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.112114.xyz/logo/香港卫视.png" group-title="港澳台", 香港卫视文旅
 https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视", 厦门卫视
 http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
@@ -761,15 +761,15 @@ http://202.107.188.139:5002/utv5_hdgq.m3u8?token=guoziyun
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/库尔勒二套.png" group-title="其他", 库尔勒二套
 http://202.107.188.139:5002/kuerle2_hdcq.m3u8?token=guoziyun
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕6.png" group-title="其他", 咪咕6
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕6.png" group-title="咪咕", 咪咕6
 http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕8.png" group-title="其他", 咪咕8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕8.png" group-title="咪咕", 咪咕8
 http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/尉犁一套.png" group-title="其他", 尉犁一套
 http://202.107.188.140:5002/yuli1_hdcq.m3u8?token=guoziyun
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="其他", 咪咕1
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png" group-title="咪咕", 咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
-#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="其他", 咪咕2
+#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕", 咪咕2
 http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/陕西影视.png" group-title="陕西", 陕西影视
 http://111.20.33.93/PLTV/88888893/224/3221226360/index.m3u8
@@ -783,63 +783,63 @@ http://110.153.180.106:55555/out_4/index.m3u8
 http://202.107.188.139:5002/bazhou4_hdgq.m3u8?token=guoziyun
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/青海都市.png" group-title="青海", 青海都市
 http://stream.qhbtv.com/qhds/sd/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕9.png" group-title="其他", 咪咕9
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕9.png" group-title="咪咕", 咪咕9
 http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/陕西生活.png" group-title="陕西", 陕西生活
 http://111.20.33.93/PLTV/88888893/224/3221226359/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/和田汉语综合.png" group-title="其他", 和田汉语综合
 http://202.107.188.139:5002/hetiankzkt1_hdcq.m3u8?token=guoziyun
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕13.png" group-title="其他", 咪咕13
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕13.png" group-title="咪咕", 咪咕13
 http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕15.png" group-title="其他", 咪咕15
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕15.png" group-title="咪咕", 咪咕15
 http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕5.png" group-title="其他", 咪咕5
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕5.png" group-title="咪咕", 咪咕5
 http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕12.png" group-title="其他", 咪咕12
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕12.png" group-title="咪咕", 咪咕12
 http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png" group-title="其他", 咪咕3
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕3.png" group-title="咪咕", 咪咕3
 http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕21.png" group-title="其他", 咪咕21
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕21.png" group-title="咪咕", 咪咕21
 http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕18.png" group-title="其他", 咪咕18
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕18.png" group-title="咪咕", 咪咕18
 http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕7.png" group-title="其他", 咪咕7
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕7.png" group-title="咪咕", 咪咕7
 http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/六安公共.png" group-title="其他", 六安公共频道
 http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕16.png" group-title="其他", 咪咕16
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕16.png" group-title="咪咕", 咪咕16
 http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/哈密一套.png" group-title="其他", 哈密一套
 http://stream.hmgbtv.com/hm1/hd/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕23.png" group-title="其他", 咪咕23
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕23.png" group-title="咪咕", 咪咕23
 http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
 #EXTINF:-1,tvg-id="苏州电影娱乐" tvg-name="苏州电影娱乐" tvg-logo="https://epg.112114.xyz/logo/苏州电影娱乐.png" group-title="影音", 苏州电影娱乐
 https://liveshowbak2.kan0512.com/norecord/ncsztv4_sd/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/宝鸡1.png" group-title="其他", 宝鸡1
 http://111.20.33.93/PLTV/88888893/224/3221226381/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕20.png" group-title="其他", 咪咕20
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕20.png" group-title="咪咕", 咪咕20
 http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕17.png" group-title="其他", 咪咕17
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕17.png" group-title="咪咕", 咪咕17
 http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/伊宁维吾尔语.png" group-title="其他", 伊宁维吾尔语
 http://222.81.61.37:9898/out_2/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/伊犁汉语综合.png" group-title="其他", 伊犁汉语综合
 http://110.153.180.106:55555/out_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png" group-title="其他", 咪咕10
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png" group-title="咪咕", 咪咕10
 http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕4.png" group-title="其他", 咪咕4
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕4.png" group-title="咪咕", 咪咕4
 http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/施秉综合.png" group-title="其他", 施秉综合
 https://play.cxsm.com/video/sbtv.m3u8?auth_key=1687378140-0-0-53b8174b0555c8e50011a9a573392a8e
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕27.png" group-title="其他", 咪咕27
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕27.png" group-title="咪咕", 咪咕27
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石河子教育.png" group-title="教育", 石河子教育
 http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕26.png" group-title="其他", 咪咕26
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕26.png" group-title="咪咕", 咪咕26
 http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/杭州体育.png" group-title="体育", 杭州体育
 http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕11.png" group-title="其他", 咪咕11
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕11.png" group-title="咪咕", 咪咕11
 http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/伊犁哈萨克.png" group-title="其他", 伊犁哈萨克
 http://110.153.180.106:55555/out_3/index.m3u8
@@ -851,9 +851,9 @@ http://zbbf2.ahbztv.com/live/416.m3u8
 http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/伊宁汉语综合.png" group-title="其他", 伊宁汉语综合
 http://222.81.61.37:9898/out_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕19.png" group-title="其他", 咪咕19
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕19.png" group-title="咪咕", 咪咕19
 http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕14.png" group-title="其他", 咪咕14
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕14.png" group-title="咪咕", 咪咕14
 http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石河子经济生活.png" group-title="其他", 石河子经济生活
 http://124.88.144.73:1935/live/dywt/playlist.m3u8
@@ -863,13 +863,13 @@ http://cdnpull.0471tv.org.cn/live/test1.m3u8
 http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/伊犁维吾尔.png" group-title="其他", 伊犁维吾尔
 http://110.153.180.106:55555/out_2/index.m3u8
-#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="其他", 咪咕24
+#EXTINF:-1,tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育" tvg-logo="https://epg.112114.xyz/logo/咪咕24小时体育.png" group-title="咪咕", 咪咕24
 http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕22.png" group-title="其他", 咪咕22
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕22.png" group-title="咪咕", 咪咕22
 http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/石河子新闻综合.png" group-title="地市新闻", 石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕25.png" group-title="其他", 咪咕25
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/咪咕25.png" group-title="咪咕", 咪咕25
 http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
 #EXTINF:-1,tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://epg.112114.xyz/logo/苏州新闻综合.png" group-title="地市新闻", 苏州新闻综合
 https://liveshowbak2.kan0512.com/norecord/ncsztv1_sd/playlist.m3u8
@@ -1205,7 +1205,7 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/江苏徐州新闻综合.png" group-title="江苏", 江苏徐州新闻综合
 http://stream1.huaihai.tv/xwzh/sd/live.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香港佛陀教育协会(大陆线路).png" group-title="宗教", 香港佛陀教育协会(大陆线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/香港佛陀教育协会(大陆线路).png" group-title="港澳台", 香港佛陀教育协会(大陆线路)
 http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖南湘潭综合台.png" group-title="湖南", 湖南湘潭综合台
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
@@ -1355,7 +1355,7 @@ https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湖南娄底综合台.png" group-title="湖南", 湖南娄底综合台
 http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/网络念佛堂(台湾线路).png" group-title="宗教", 网络念佛堂(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/网络念佛堂(台湾线路).png" group-title="港澳台", 网络念佛堂(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/amtb/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/桂林漓江景区.png" group-title="景区", 桂林漓江景区
 https://gctxyc.liveplay.myqcloud.com/gc/gllj01_1/index.m3u8
@@ -1515,7 +1515,7 @@ https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(大陆线路).png" group-title="宗教", 净空老法师讲经直播台(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/悟道法师讲经(台湾线路).png" group-title="宗教", 悟道法师讲经(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/悟道法师讲经(台湾线路).png" group-title="港澳台", 悟道法师讲经(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/wdmaster/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/云台山小寨沟.png" group-title="景区", 云台山小寨沟
 https://gccncc.v.wscdns.com/gc/ytsxzg_1/index.m3u8
@@ -1529,13 +1529,13 @@ https://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
 http://www.rtvcdn.com.au:8082/TV0002.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山天街.png" group-title="景区", 泰山天街
 https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(台湾线路).png" group-title="宗教", 净空老法师讲经直播台(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/净空老法师讲经直播台(台湾线路).png" group-title="港澳台", 净空老法师讲经直播台(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山十八盘.png" group-title="景区", 泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(大陆线路).png" group-title="宗教", 系念法会(大陆线路)
 https://tw3.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(台湾线路).png" group-title="宗教", 系念法会(台湾线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(台湾线路).png" group-title="港澳台", 系念法会(台湾线路)
 https://tw1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/泰山玉皇顶.png" group-title="景区", 泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
@@ -1651,7 +1651,7 @@ https://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/鸣沙山山门.png" group-title="景区", 鸣沙山山门
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(香港线路).png" group-title="宗教", 系念法会(香港线路)
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/系念法会(香港线路).png" group-title="港澳台", 系念法会(香港线路)
 https://hk1.amtb.de/liveedge/_definst_/sanshi_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/湘西凤凰古城南华山.png" group-title="景区", 湘西凤凰古城南华山
 https://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1/index.m3u8
