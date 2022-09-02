@@ -1813,4 +1813,48 @@ http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8?zshijd
 #EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="港澳台", FRANCE24
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-,EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="�
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 美丽人生购物台
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="6117" tvg-name="海豚综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/海豚综合.png" group-title="港澳台", 海豚综合台
+http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他", 中台湾生活网
+http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", KH_BayonTV
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CTN
+http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="6034" tvg-name="原住民频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png" group-title="港澳台", 原住民
+http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+#EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="港澳台", NHK
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", 美国红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", KH_TV9
+http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", KH_FreshNewsTV
+http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 爱上4k
+http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="景区", 半岛新闻
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="港澳台", CHANNELNEWSASIA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", CNA(1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 新加坡
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 tvg-id="543" tvg-name="东森亚洲新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EbcAsiaNews.png" group-title="港澳台", 东森亚洲新闻台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 房山无线(高清)
+http://live.funhillrm.com/2/sd/live.m3u8?zbeid
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", TVB J1 [粤语]
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8?zgangd
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="港澳台", BLOOMBERGTV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", f时尚
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8?zshijd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际", 印尼_TVRIKanal3
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?zshijd
+,
