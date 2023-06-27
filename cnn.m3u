@@ -1,0 +1,21 @@
+#EXTM3U
+,EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+,EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
+#EXTINF:-1,tvg-id="" tvg-
+
+#EXTINF:-1,tvg-id="" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
+http://live.aptvapp.com/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+http://live.aptvapp.com/bestv.php?id=cctv4k/15000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+http://live.aptvapp.com/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
+http://live.aptvapp.com/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
+http://live.aptvapp.com/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4
+http://live.aptvapp.com/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,tvg-id="" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5
+http://live.aptvapp.com/bestv.php?id=cctv58m/8000000
