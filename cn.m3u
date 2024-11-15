@@ -79,6 +79,8 @@
 #EXTINF:-1 group-title="央视-菁彩声",测试视频 7.1.4 12声道
 ,ttps://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 
+,ttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV6",北京卫视
 ,ttp://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000516
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视IPV6",湖南卫视
 ,ttp://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000523
