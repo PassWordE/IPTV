@@ -295,7 +295,7 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://148.135.93.213:81/live.php?id=CCTV15
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视IPV6",CCTV15
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV4",CCTV16
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=b2wkg2lvb7y2hxnj" group-title="央视IPV4",CCTV16
 http://148.135.93.213:81/live.php?id=CCTV16
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视IPV6",CCTV16
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
